@@ -29,7 +29,7 @@ public class SquirtleThing extends PokeThing {
 		g.appendTextWindow("Squirtle has moved " + squaresMoved + " squares.");
 	}
 	
-	
+	// Test
 	/**
 	 * movement in a repeating pattern
 	 * <code>SquirtleThing</code> turns right if it is blocked or encounters a wall

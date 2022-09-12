@@ -1,5 +1,5 @@
 public class SquirtleRunner {
-
+// Test
 	/**
 	 * Runner for a PokeBoard PokemonCode demo
 	 * @param args is not used.

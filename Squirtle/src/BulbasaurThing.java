@@ -31,7 +31,7 @@ public class BulbasaurThing extends PokeThing {
 		putFlower();
 		move();
 	}
-	
+	// Test
 	/**
 	 * Behavior to occur when the Thing has been clicked on
 	 */
