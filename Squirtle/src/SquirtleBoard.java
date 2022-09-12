@@ -10,7 +10,6 @@ public class SquirtleBoard extends Board {
 	 	setInitialText("What will Squirtle do with Bulbasaur's flowers?");
 	}
 	
-	
 	@Override
 	public void newGame(boolean repaint)
 	{
